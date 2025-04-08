@@ -6,6 +6,7 @@ Case 1 Calculation process: https://docs.google.com/spreadsheets/d/1ejOC4Cnjd2vt
 
 Case 1 Demand forecast dashboard:
 https://public.tableau.com/app/profile/shiyun.hong/viz/case1vis/1
+The downloaded copy is also attached.
 
 Case 2 Calculation process:
-please check the xlsx file attached
+Please check the attached XLSX file.
